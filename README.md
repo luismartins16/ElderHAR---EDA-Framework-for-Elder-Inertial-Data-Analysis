@@ -1,10 +1,6 @@
 # ElderHAR---EDA-Framework-for-Elder-Inertial-Data-Analysis
 ElderHAR - EDA Framework for Elder Inertial Data Analysis provides tools for exploratory analysis of inertial signals from older adults. It includes preprocessing routines, signal visualization, and class distribution analysis, supporting reproducible research in human activity recognition and fall risk assessment.
 
-============================================================
-HUMAN ACTIVITY RECOGNITION - EDA & PREPROCESSING
-============================================================
-
 Author: Luís Miguel Marques Martins  
 Project: Fall Risk Assessment from HAR in Elderly Subjects  
 Institution: CMEMS | University of Minho | FCT Grant 2022.14549.BD  
